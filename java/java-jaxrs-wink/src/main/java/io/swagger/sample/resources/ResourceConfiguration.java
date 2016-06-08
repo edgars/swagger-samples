@@ -34,6 +34,7 @@ public class ResourceConfiguration extends Application {
         resources.add(PetResource.class);
         resources.add(PetStoreResource.class);
         resources.add(UserResource.class);
+        resources.add(CustomerService.class);
 
     }
 
